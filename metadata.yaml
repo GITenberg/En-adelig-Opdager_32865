@@ -1,0 +1,41 @@
+_repo: En-adelig-Opdager_32865
+_version: 0.1.0
+alternative_title: An aristocratic detective. Danish
+contributor:
+  translator:
+    agent_name: Thomsen, Axel
+    gutenberg_agent_id: '36082'
+    url: http://www.gutenberg.org/2009/agents/36082
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marsh, Richard
+    aliases:
+    - Heldman, Richard Bernard
+    - Heldmann, Bernard
+    birthdate: 1857
+    deathdate: 1915
+    gutenberg_agent_id: '1718'
+    url: http://www.gutenberg.org/2009/agents/1718
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Marsh_%28author%29
+description: ''
+gutenberg_issued: '2010-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32865'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Champnell, Augustus (Fictitious character) -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+tableOfContents: Det stjaalne Brev -- En frygtelig Nat -- Den forsvundne Hustru --
+  Et gaadefuldt Indbrud -- Den stjaalne Traktat -- Den snedige Herredsfoged -- Sammensværgelsen
+  -- En mystisk Passager -- En veltalende Præst -- Grev Campnells Klinge.
+title: En adelig Opdager
+url: http://www.gutenberg.org/ebooks/32865
